@@ -1,0 +1,15 @@
+#    Assignment 4     #  
+#   Daniel Mendoza    #  
+#                     #  
+#######################
+
+
+>>> from Proj04 import getLen
+>>> 'Daniel Mendoza'
+
+>>> getLen(['a','b','c'])
+4
+
+if __name__=="__main__":
+    import doctest
+    doctest.testmod
